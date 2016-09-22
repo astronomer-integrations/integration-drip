@@ -1,5 +1,5 @@
 {
-  "name": "integration-drip",
+  "name": "@astronomerio/integration-drip",
   "version": "1.0.9",
   "private": true,
   "description": "Drip server-side integration",
